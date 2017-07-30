@@ -1,0 +1,95 @@
+ /* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+I just， finish the completion part of this assignment, and i am feeling i done quite successful so far.
+
+
+What part(s) of the assignment did you find most interesting?
+
+the core part, because i learned some new stuff about the 
+array queue.
+
+What part(s) of the assignment did you find most difficult?
+
+the challenge part because i still not sure how to did it.
+
+
+
+If you completed the completion part:
+
+Show the results you obtained when using the priorty queue and compare them
+to the results you obtained with the ordinary queue.
+
+StandardQueue:  on time: 105, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $605.50
+PriorityQueue:  on time: 105, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $605.50
+                                                                          Saving = $0.00
+======================= Log File: completLog10 =======================
+StandardQueue:  on time: 100, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $560.00
+PriorityQueue:  on time: 100, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $560.00
+                                                                          Saving = $0.00
+======================= Log File: completLog11 =======================
+StandardQueue:  on time: 112, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $639.00
+PriorityQueue:  on time: 112, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $639.00
+                                                                          Saving = $0.00
+======================= Log File: completLog12 =======================
+StandardQueue:  on time: 90, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $470.00
+PriorityQueue:  on time: 90, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $470.00
+                                                                          Saving = $0.00
+======================= Log File: completLog13 =======================
+StandardQueue:  on time: 103, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $485.00
+PriorityQueue:  on time: 103, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $485.00
+                                                                          Saving = $0.00
+======================= Log File: completLog14 =======================
+StandardQueue:  on time: 99, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $485.50
+PriorityQueue:  on time: 99, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $485.50
+                                                                          Saving = $0.00
+======================= Log File: completLog15 =======================
+StandardQueue:  on time: 83, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $418.00
+PriorityQueue:  on time: 83, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $418.00
+                                                                          Saving = $0.00
+======================= Log File: completLog16 =======================
+StandardQueue:  on time: 102, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $592.00
+PriorityQueue:  on time: 102, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $592.00
+                                                                          Saving = $0.00
+======================= Log File: completLog17 =======================
+StandardQueue:  on time: 82, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $527.50
+PriorityQueue:  on time: 82, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $527.50
+                                                                          Saving = $0.00
+======================= Log File: completLog18 =======================
+StandardQueue:  on time: 107, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $539.50
+PriorityQueue:  on time: 107, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $539.50
+                                                                          Saving = $0.00
+======================= Log File: completLog19 =======================
+StandardQueue:  on time: 94, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $497.00
+PriorityQueue:  on time: 94, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $497.00
+                                                                          Saving = $0.00
+======================= Log File: completLog20 =======================
+StandardQueue:  on time: 108, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $581.00
+PriorityQueue:  on time: 108, late: 0 (urgent= 0, std= 0, undelivered= 0), Profit: $581.00
+                                                                          Saving = $0.00
+
+
+
+
+Explain how you incorporated the distance into the scheduling (if at all),
+and what effect this had.
+
+
+
+
+
+
+
+
+----------------------------------------------------------------

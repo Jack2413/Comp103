@@ -1,0 +1,23 @@
+/* Reflection.txt for COMP103
+ * Name:zhancheng gan
+ * Usercode:
+ * ID:300378961
+ */
+
+For your reflection:
+====================
+
+Write a paragraph that describes an aspect of the material we've covered 
+so far (i.e. anything in the lectures to date, or this assignment) that 
+you found particularly interesting or tricky to understand. Include how 
+you went about exploring further, learning about the issue to your own 
+satisfaction. If understanding it remains a problem for you, outline 
+what your next step will be in sorting this out.
+
+For what we are covered so far,in this assignment, i found out some particularly interesting problem  in the sprial question,  I never think about we can draw the image like this before i done the assignment， and i did learn a new away for doing 2D Graphics .and during the assignment  game 2048, i did  find out lots of bugs that when i did used a lot of for looper. The most common bugs i find out is （array  Index out of bounds），it makes me modify the bounds of the for loopers again and again. To exploring further（reduce bugs）, i think the best way to doing this is Write a rough draft before using for loops，and to calculate the bounds that is very important.
+（In the assignment game2048 i did change the arrow keys to WASD for move up down left top, because the arrow keys didn’t work on my computer.）
+
+
+
+lastly， i wanna said： “Thank you！ for all the Tutors.” you guys did help us a lot in Assignments and Tutorials. 
+ 

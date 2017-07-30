@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=string
+comment0.target=java.util.List\ recPermute(java.lang.String)
+comment0.text=\n\ @return\ a\ List\ of\ all\ the\ permutations\ of\ a\ String.\ \n
+comment1.params=string
+comment1.target=void\ Sorting(java.lang.String)
+comment2.params=length\ string
+comment2.target=java.lang.String\ fix(int,\ java.lang.String)
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String[])
+numComments=4

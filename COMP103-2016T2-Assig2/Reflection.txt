@@ -1,0 +1,26 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+--------------------------------------------------------------------
+Time spent to the nearest hour on FastFood: 1days(about 5hour)..
+Time spent to the nearest hour on Sokoban: 5days!!!(Still not work out the last question )
+
+Please do answer on the corresponding LINE, not below or above the
+line as it would make the extraction of the data more difficult.
+--------------------------------------------------------------------
+
+For your reflection:
+====================
+
+Describe how far you got. If there was a problem you got stuck on, what was that problem?
+i work through every thing， except the last question on sokoban I stuck on that quite a long time. so far i got 2 problems i need to face on，one is finding the square clear or not（that sometimes give me an error saids arrayIndexOutOfBoundsException ）another one i confusions on is the how to make the crook finding the right path？
+
+Reading and understanding someone else's code is difficult. What elements of Sokoban made it easier or made it more difficult for you to understand? Can you identify things that you would do or avoid doing if you were trying to make your own code easily understood by someone else?
+
+write lots and lots comments it makes more easily to understand，and name things clearly （methods variable what this do and what that does..）in the sokoban class it did i very good job for that （but still made me hard to read anyway）
+
+--------------------------------------------------------------------
+

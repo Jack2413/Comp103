@@ -1,0 +1,30 @@
+/* Reflection.txt for COMP103
+ * Name:Zhancheng Gan
+ * Usercode:
+ * ID:300378961
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+I finished all all completion part of this assignment, and i did a bit challenge in part 1,if i have time i will go back to finish it. I think i did quite successful so far not have any problems I got stuck on.
+
+
+* What is the point of comparators?  Why are they necessary in general?
+  Could you suggest an alternative way of solving the same problems that didn't
+  involve having to make these additional classes?
+they necessary in general， but is quite useful. Maybe can create  comparator class
+and put all the methods in.
+
+* Coming up with good test methods can be as hard as writing the code that it is
+  testing.  Suggest some guidelines or principles for writing good test methods.
+
+for writing good test methods, have to fully understand what the code your will testing，and Consider various details and possibilities.
+
+
+--------------------------------------------------------------------

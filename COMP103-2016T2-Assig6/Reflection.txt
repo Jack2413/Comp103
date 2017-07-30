@@ -1,0 +1,32 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+
+
+i am up to the challenge part of this assignment，the Iterator for BST. i believe i i i did quite successful so far but i don’t know i have time or not for finish the challenge part , if i have time i will go back to finish it.
+
+* Did you notice a difference in speed of the application compared to the one of assignment 3? Where does the speed difference come from?
+
+i think the difference in speed between those 2 assignment is, one is BTS tree method  and other one just BTS. the BTS tree will run fast time save more time.
+
+* What did you observe comparing the height of the tree, both after loading the dictionary words and after removing the bad words? How do you explain this result? 
+
+if this value > 0, current node will at this value to the right else will add the current to the left the hight is the maximum deep of this tree, for remove method the height also changes when it remove the deepest node of this tree or remove deepest node’s parent(use deepest node to replace).
+
+* What is the numerical difference between the height of the tree you observed and the theoretical minimum? State the number and briefly comment on how much it affects the search speed.
+
+the search speed depends on the height of the tree times the minimum speed(when it just have one node).
+
+----------------------------------------------------------------
+

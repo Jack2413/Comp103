@@ -1,0 +1,36 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Username:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+i up the the completion part and stuck on the iterator part, i have no idea what it is and how this work. i got no successful in the assignment, i just keep doing worst and worst.
+
+
+* Do you think that having both classes "Images" and "ImageNode" is overkill? 
+  What pros and cons can you think of in comparison to just using ImageNode?
+yes could be.
+
+* Did you notice the different complexity of adding an image
+  before vs after the cursor? 
+  What are the complexities and what is the cause of this complexity difference?
+that is the question i stuck on 
+
+* Can you think of an extension to "ImageNode" that would avoid the 
+  above mentioned complexity difference? 
+i have no idea is this the challenge thinking？
+
+* Cursors are a good way of obtaining quick access to a certain point in a list. 
+  Can you think of a potential problem if a client does not use Images.setCursor correctly?
+ if a client does not use Images.setCursor correctly？potential problem？because the cursor method is not work properly。
+
+ 
+----------------------------------------------------------------

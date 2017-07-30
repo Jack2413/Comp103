@@ -1,0 +1,34 @@
+/* Reflection.txt for COMP103
+ * Name:ZhanCheng Gan
+ * Usercode:
+ * ID:300378961
+ */
+
+For your reflection:
+====================
+
+First, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+I did finished my whole assignment, complete (core, completion,and challenge parts)
+I believe i did better then last time， because in this time, have 3 week to finish this assignment and i did spend a lot of time in it.
+
+
+Sometimes a recursive method can alternatively be written just using simple
+loops. What do think determines whether this is possible or not? 
+
+It Depending on in this section of code have many branches or not（e.g tree）. like in the code part of this assignment using recursive method is much easier. on the other hand in the challenge part， it can use either recursive or loopers.
+
+What are the advantages/disadvantages of using recursive methods rather than
+loops?
+
+I think the advantages is recursive can deal with the tree Algorithm，Arch-Wall Algorithm， binary search etc。 In this regard，using recursive is easier than use loops. The disadvantages is difficult to trace the logic of the function，and sometimes is confusing.
+
+Many people find recursion hard to understand at first, although it doesn't do
+anything different from previous programs - it just involves methods which call
+methods.  Why is it tricky then?
+
+I think it is tricky because every time recall this method，the values in the method might change，and have to dealing with the new values.You need to have a better way of thinking before using recursive method. And you have to know Very clearly when this method should stop，the exit point must be explicitly coded.
+--------------------------------------------------------------------

@@ -1,0 +1,24 @@
+/* Reflection.txt for COMP103
+ * Name:Zhancheng Gan
+ * Usercode:
+ * ID:300378961
+ */
+
+For your reflection:
+====================
+
+Describe how far you got on this assignment. Please be specific about what you
+attempted (core, completion, challenge, and any finer-grained goals, if
+applicable). Please also state how successful you believe you were respectively.
+If there were any problems you got stuck on, what were they? 
+
+I am up to the completion part but still have errors in it, and i am stuck on the null point exception error and for some how can’t find the V13 V20 value.I did try to fix the bugs, worked on my codes for few days but still have those errors.
+
+The Java collection library provides several different implementations of the
+Set type, including HashSet and TreeSet. Why does it not provide ArraySet?
+After all, Java provides the ArrayList implementation of the List type!
+
+jave it provide Array list, it can implement List, i think the reason for not provide array set because the costs is too big. easy to overload and it is necessary.
+
+--------------------------------------------------------------------
+
